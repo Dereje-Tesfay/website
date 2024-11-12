@@ -1,0 +1,9 @@
+<nav class="navbar collapsibl collapsibl--expanded">
+    <img class="logo" src="../image/IMG_20241111_172312_743.jpg" alt="">
+    <ul>
+       <a href=""> <li  class="list__items">Home</li></a>
+       <a href=""> <li class="list__items">Services</li></a>
+       <a href=""> <li class="list__items">Contact me</li></a>
+       <a href=""> <li class="list__items">Login</li></a>
+    </ul>
+ </nav>

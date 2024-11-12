@@ -1,0 +1,10 @@
+ <div class="callout--container">
+    <div class="callout grid1x2">
+        <div class="callout--content">
+            <p class="callout--text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate officiis porro et inventore molestias maxime libero quibusdam vel animi ad quis rerum, repellendus voluptas pariatur aliquid expedita magnam quam modi!</p>
+       </div>
+       <div class="callout--btn">
+        <button class=" callout--btn secondary--btn btn">Get Start</button>
+       </div>
+    </div>
+  </div>

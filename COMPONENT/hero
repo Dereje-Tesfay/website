@@ -1,0 +1,18 @@
+ <div class="hero--component">
+    <div class="hero grid1x2">
+        <div class="hero__content">
+            <h4 class="hero__heading">Hello World</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Et itaque aperiam dolorum sed alias maxime facilis tempora 
+                 laborum cupiditate ratione in, quibusdam similique velit
+                 . A modi quas ducimus at ea reiciendis quasi reprehenderit 
+                 quia maiores dolore obcaecati sint numquam, deserunt illum,
+                  pariatur mollitia id ad odit natus dolorum ipsam eveniet.</p>
+                  <button class="hero__btn btn secondary--btn">Get Start</button>
+        </div>
+       
+     <div class="hero__image">
+        <img src="/R.jpg" alt="">
+     </div>
+    </div>
+   </div>

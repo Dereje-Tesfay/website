@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card</title>
+    <style>
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+          
+         
+        }
+        .outer--container{
+            display: flex;
+           flex-wrap: wrap;
+           justify-content: center;
+
+        }
+        .container{
+            margin: 1rem;
+        }
+        .card--container{
+            border: 1px solid rgb(245, 235, 216);
+            width: 200px;
+            height: 100vh;
+            background-color: rgb(228, 223, 220);
+            border-radius: 10px;
+            transform: translate(1s);
+          box-shadow: 2px 2px 2px 2px rgb(250, 225, 225);
+        }
+        .card--container:hover{
+         background-color: darkcyan;
+            transform: scale(1.1)
+            
+
+            
+        }
+        .card__header img{
+            width: 180px;
+            height: 250px;
+            position: relative;
+           right: 1rem;
+           left: .5rem;
+           top: 1rem;
+           border-radius: 10px;
+           object-fit: cover;
+           
+
+        }
+        p{
+            font-size: 20px;
+        }
+        .card__content {
+            position: relative;
+            right: 2rem;
+           left: 3rem;
+           /* top: 1rem; */
+        }
+        button{
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 5px;
+            border-radius: 10px;
+        }
+        .heading{
+            color: dodgerblue;
+            text-decoration: underline;
+            text-transform: capitalize;
+        }
+    </style>
+</head>
+<body>
+    <div class="outer--container">
+        <div class="container">
+            <div class="card--container">
+                <div class="card__header">
+                    <img src="./IMG_20241111_172312_743.jpg" alt="">
+                </div>
+                <div class="card__content">
+                    <h1><ul><li type="none" class="heading">Skill</li></ul></h1>
+                    <p><ul><li>HTML</li></ul></p>
+                    <p><ul><li>CSS</li></ul></p>
+                    <p><ul><li>JS</li></ul></p>
+                    <button>REVIEWS</button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card--container">
+                <div class="card__header">
+                    <img src="./ww-2.jpg" alt="">
+                </div>
+                <div class="card__content">
+                    <p>bag of oranges</p>
+                    <p>price $30</p>
+                    <button>ADD TO CARD</button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card--container">
+                <div class="card__header">
+                    <img src="./images.jpg" alt="">
+                </div>
+                <div class="card__content">
+                    <p>bag of oranges</p>
+                    <p>price $30</p>
+                    <button>ADD TO CARD</button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card--container">
+                <div class="card__header">
+                    <img src="./3c9a5a09d72296179d3c16d4bf223b75_002.jpg" alt="">
+                </div>
+                <div class="card__content">
+                    <p>bag of oranges</p>
+                    <p>price $30</p>
+                    <button>ADD TO CARD</button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card--container">
+                <div class="card__header">
+                    <img src="./Untitled.jpg" alt="">
+                </div>
+                <div class="card__content">
+                    <p>bag of oranges</p>
+                    <p>price $30</p>
+                    <button>ADD TO CARD</button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="card--container">
+                <div class="card__header">
+                    <img src="./gratisography-funflower-800x525.jpg" alt="">
+                </div>
+                <div class="card__content">
+                    <p>bag of oranges</p>
+                    <p>price $30</p>
+                    <button>ADD TO CARD</button>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+    
+</body>
+</html>

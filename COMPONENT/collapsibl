@@ -1,0 +1,9 @@
+<div class="collapsibl collapsibl--expanded">
+    <header class="collapsibl__header">
+        <h3>Item1</h1>
+        <span>&#x3e;</span>
+    </header>
+    <div class="collapsibl__content">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, exercitationem!</p>
+    </div>
+</div>

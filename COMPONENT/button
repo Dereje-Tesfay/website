@@ -1,0 +1,3 @@
+<button class="btn primary--btn">click</button>
+    <button class=" btn secondary--btn ">Movies</button>
+    <button class="btn accsses">Book</button>

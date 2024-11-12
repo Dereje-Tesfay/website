@@ -1,0 +1,4 @@
+ <div class="input--group">
+  <input class="input__group" type="text">
+  <button class="btn primary--btn btn--group">search</button>
+   </div>

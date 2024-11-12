@@ -1,0 +1,60 @@
+
+<div class="footer--copy">
+    <section class="footer--container">
+        <div class="footer__content">
+            <ul>
+                <li class="footer__list">
+                    <h1>Item1</h1>
+                </li>
+                <li class="footer__list">Items</li>
+                <li class="footer__list">Items</li>
+                <li class="footer__list">Items</li>
+    
+            </ul>
+        </div>
+        <div class="footer__content">
+            <ul>
+                <li class="footer__list">
+                    <h1>Item 2</h1>
+                </li>
+                <li class="footer__list">Items</li>
+                <li class="footer__list">Items</li>
+                <li class="footer__list">Items</li>
+    
+    
+            </ul>
+        </div>
+        <div class="footer__content">
+            <ul>
+                <li class="footer__list"><h1>Item 3</h1></li>
+                <li class="footer__list">Items</li>
+                <li class="footer__list">Items</li>
+                <li class="footer__list">Items</li>
+    
+            </ul>
+        </div>
+    
+        <div class="footer__content">
+            <ul>
+                <li class="footer__list"><h1>Item 4</h1></li>
+                <div class="footer--contents">
+                    <div class="input input--footer"><input type="text"></div>
+                    <div class="footer__images">
+                       <a href="0989806310" target="_blank"> <img  class="footer__image" src="../image/OIP.jpg" alt=""></a>
+                        <a href="dere" target="_blank"><img class="footer__image" src="../image/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt=""></a>
+                        <img class="footer__image" src="../image/R.png" alt="">
+                        <img  class="footer__image" src="../image/69768-logo-computer-layout-instagram-icons-png-file-hd.png" alt="">
+                                    </div>
+                    </div>
+                    <li class="footer__list">Mobole:+251989806310</li>
+                    <li class="footer__list" >Email:deretesfa21@gmail.com</li>
+            </ul>
+        </div>
+    
+    </section>
+    <div class="copy">
+        <hr>
+        <p>&copy; 2024 woldia university</p>
+    </div>
+</div>
+</div>

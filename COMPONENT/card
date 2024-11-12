@@ -1,0 +1,75 @@
+<div class="outer--container">
+    <div class="container">
+        <div class="card--container">
+            <div class="card__header">
+                <img src="../image/IMG_20241111_172312_743.jpg" alt="">
+            </div>
+            <div class="card__content">
+                <p><ul><li class="card__items ">Items</li></ul></p>
+                <p><ul><li class="card__items">price$50</li></ul></p>
+                <button class="btn primary--btn card__btn">REVIEWS</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="card--container">
+            <div class="card__header">
+                <img src="../image/ww-2.jpg" alt="">
+            </div>
+            <div class="card__content">
+                <p class="card__text">Items</p>
+                <p class="card__text">price $30</p>
+                <button class="btn  secondary--btn card__btn">Buildig</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="card--container">
+            <div class="card__header">
+                <img src="../image/images.jpg" alt="">
+            </div>
+            <div class="card__content">
+                <p class="card__text">Items</p>
+                <p class="card__text">price $30</p>
+                <button class="btn card__btn accsse">Books</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="card--container">
+            <div class="card__header">
+                <img src="../image/3c9a5a09d72296179d3c16d4bf223b75_002.jpg" alt="">
+            </div>
+            <div class="card__content">
+                <p class="card__text">Items</p>
+                <p class="card__text">price $30</p>
+                <button class="btn card__btn accsse">Movise</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="card--container">
+            <div class="card__header">
+                <img src="../image/Untitled.jpg" alt="">
+            </div>
+            <div class="card__content">
+                <p class="card__text">Items</p>
+              <p class="card__text">price $50</p>
+                <button class="btn card__btn primary--btn">Movise</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="card--container">
+            <div class="card__header">
+                <img src="../image/gratisography-funflower-800x525.jpg" alt="">
+            </div>
+            <div class="card__content">
+                <p class="card__text">bag of oranges</p>
+                <p class="card__text">price $30</p>
+                <button class="btn card__btn primary--btn">Flower</button>
+            </div>
+        </div>
+    </div>
+   
+</div>

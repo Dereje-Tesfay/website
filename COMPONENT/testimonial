@@ -1,0 +1,39 @@
+<div class="testimonial--container">
+    <header class="grid grid1x2 testimonial__grid">
+        <div class="testimonial__content">
+            <h1 class="testimonial__header">Hello Everyone!</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Maiores nostrum commodi, expedita totam, quidem officia a
+                tque nemo a consequatur est cupiditate quia ipsa magni earum
+                 dicta itaque debitis dolor? Fuga, cum tempore. Iusto expedita
+                  similique reiciendis sunt tenetur hic quaerat cum obcaecati quidem
+                  , voluptatum nam qui tempore quas eius aut maxime beatae inventor
+                  e facilis! Nam deleniti quia atque ea quaerat? Ipsam, consequuntur
+                   optio. Nisi temporibus voluptatibus fugit fuga delectus rerum saepe
+                    consequuntur vero explicabo placeat est numquam, itaque odit ex </p>  
+        </div>
+        <div class="testimonial__image">
+            <img src="../image/IMG_20241111_172312_743.jpg" alt="">
+        </div>
+    </header>
+</div>
+    
+    <header class="grid grid1x2 testimonial__grid">
+       
+        <div class="testimonial__image">
+            <img src="../image/Untitled.jpg" alt="">
+        </div>
+        <div class="testimonial__content">
+            <h1 class="testimonial__header">Hello Everyone!</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Maiores nostrum commodi, expedita totam, quidem officia a
+                tque nemo a consequatur est cupiditate quia ipsa magni earum
+                 dicta itaque debitis dolor? Fuga, cum tempore. Iusto expedita
+                  similique reiciendis sunt tenetur hic quaerat cum obcaecati quidem
+                  , voluptatum nam qui tempore quas eius aut maxime beatae inventor
+                  e facilis! Nam deleniti quia atque ea quaerat? Ipsam, consequuntur
+                   optio. Nisi temporibus voluptatibus fugit fuga delectus rerum saepe
+                    consequuntur vero explicabo placeat est numquam, itaque odit ex </p>  
+        </div>
+    </header>
+</div>
