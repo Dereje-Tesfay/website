@@ -1,60 +1,83 @@
-
 <div class="footer--copy">
-    <section class="footer--container">
-        <div class="footer__content">
-            <ul>
-                <li class="footer__list">
+    <div class="footer-containers">
+        <section class="footer--container">
+            <div class="footer__content collapsibl collapsibl--expanded">
+                <div class=" footer__title collapsibl__header">
                     <h1>Item1</h1>
-                </li>
-                <li class="footer__list">Items</li>
-                <li class="footer__list">Items</li>
-                <li class="footer__list">Items</li>
-    
-            </ul>
-        </div>
-        <div class="footer__content">
-            <ul>
-                <li class="footer__list">
-                    <h1>Item 2</h1>
-                </li>
-                <li class="footer__list">Items</li>
-                <li class="footer__list">Items</li>
-                <li class="footer__list">Items</li>
-    
-    
-            </ul>
-        </div>
-        <div class="footer__content">
-            <ul>
-                <li class="footer__list"><h1>Item 3</h1></li>
-                <li class="footer__list">Items</li>
-                <li class="footer__list">Items</li>
-                <li class="footer__list">Items</li>
-    
-            </ul>
-        </div>
-    
-        <div class="footer__content">
-            <ul>
-                <li class="footer__list"><h1>Item 4</h1></li>
-                <div class="footer--contents">
-                    <div class="input input--footer"><input type="text"></div>
-                    <div class="footer__images">
-                       <a href="0989806310" target="_blank"> <img  class="footer__image" src="../image/OIP.jpg" alt=""></a>
-                        <a href="dere" target="_blank"><img class="footer__image" src="../image/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt=""></a>
-                        <img class="footer__image" src="../image/R.png" alt="">
-                        <img  class="footer__image" src="../image/69768-logo-computer-layout-instagram-icons-png-file-hd.png" alt="">
-                                    </div>
-                    </div>
-                    <li class="footer__list">Mobole:+251989806310</li>
-                    <li class="footer__list" >Email:deretesfa21@gmail.com</li>
-            </ul>
-        </div>
-    
-    </section>
+                    <span class="icon">&#x3e;</span>
+                </div>
+                <ul class="collapsibl__content footer__contents">
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+        
+                </ul>
+            </div>
+        
+        
+            <div class="footer__content collapsibl collapsibl--expanded">
+                <div class=" footer__title collapsibl__header">
+                    <h1>Item2</h1>
+                    <span class="icon">&#x3e;</span>
+                </div>
+                <ul class="collapsibl__content footer__contents">
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+        
+                </ul>
+            </div>
+        
+        
+            <div class="footer__content collapsibl collapsibl--expanded">
+                <div class=" footer__title collapsibl__header">
+                    <h1>Item3</h1>
+                    <span class="icon">&#x3e;</span>
+                </div>
+                <ul class="collapsibl__content footer__contents">
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+                    <li class="footer__list">Items</li>
+        
+                </ul>
+            </div>
+        
+            <div class="footer__content collapsibl collapsibl--expanded">
+                <div class=" footer__title collapsibl__header">
+                    <h1>Item4</h1>
+                    <span class="icon">&#x3e;</span>
+                </div>
+                <ul class="collapsibl__content footer__contents">
+        
+                        <div class="footer--contents">
+                            <div class="input input--footer"><input type="text"></div>
+                            <div class="footer__images">
+                               <a href="0989806310" target="_blank"> <img  class="footer__image" src="../image/OIP.jpg" alt=""></a>
+                                <a href="dere" target="_blank"><img class="footer__image" src="../image/telegram-icon-telegram-logo-11563072765e0pl0xsrfe.png" alt=""></a>
+                                <img class="footer__image" src="../image/R.png" alt="">
+                                <img  class="footer__image" src="../image/69768-logo-computer-layout-instagram-icons-png-file-hd.png" alt="">
+                                            </div>
+                            </div>
+                            <li class="footer__list">Mobole:+251989806310</li>
+                            <li class="footer__list" >Email:deretesfa21@gmail.com</li>
+        
+        
+                </ul>
+            </div>
+        
+        
+            <div class="footer__content">
+        
+            </div>
+        
+        </section>
+    </div>
     <div class="copy">
         <hr>
-        <p>&copy; 2024 woldia university</p>
+        <p>&copy; 2024 __Dereje Tesfaye</p>
     </div>
 </div>
 </div>

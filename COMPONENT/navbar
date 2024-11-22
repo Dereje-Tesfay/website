@@ -1,9 +1,15 @@
-<nav class="navbar collapsibl collapsibl--expanded">
-    <img class="logo" src="../image/IMG_20241111_172312_743.jpg" alt="">
-    <ul>
-       <a href=""> <li  class="list__items">Home</li></a>
-       <a href=""> <li class="list__items">Services</li></a>
-       <a href=""> <li class="list__items">Contact me</li></a>
-       <a href=""> <li class="list__items">Login</li></a>
-    </ul>
- </nav>
+<nav>
+   <div class="navbar">
+       <img class="logo__img" src="../image/Picsart_24-11-18_19-55-57-484.jpg" alt="">
+    
+
+           <ul >
+              
+               <li class="nav__list"><a href="#">Home</a></li>
+               <li class="nav__list"><a href="#">About</a></li>
+               <li class="nav__list"><a href="#">Contact me</a></li>
+               <li class="nav__list"><a href="#">Login</a></li>
+           </ul>
+     
+   </div>
+  </nav>
